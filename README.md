@@ -1,3 +1,6 @@
+This is a fork of the original invoicer project to demonstrate the use of AWS ECR in a CircleCI pipeline. Can be safely deleted.
+
+
 Securing DevOps's invoicer
 ==========================
 
